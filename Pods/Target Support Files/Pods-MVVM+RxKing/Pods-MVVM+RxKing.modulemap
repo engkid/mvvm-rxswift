@@ -1,0 +1,6 @@
+framework module Pods_MVVM_RxKing {
+  umbrella header "Pods-MVVM+RxKing-umbrella.h"
+
+  export *
+  module * { export * }
+}
